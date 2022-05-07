@@ -1,8 +1,8 @@
 # Identicon
 
-You can find the app <a href="https://identicon-aalykiot.netlify.app/" target="_blank">here</a>.
-
 An Identicon is a visual representation of a hash value, usually of an IP address, that serves to identify a user of a computer system as a form of avatar while protecting the user's privacy. The original Identicon was a 9-block graphic, and the representation has been extended to other graphic forms by third parties.
+
+You can find the app <a href="https://identicon-aalykiot.netlify.app/" target="_blank">here</a>.
 
 ## Invention
 
